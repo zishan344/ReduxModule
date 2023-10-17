@@ -1,12 +1,6 @@
 {
   "todos": [
     {
-      "id": 1,
-      "text": "Learn Vanilla JavaScript",
-      "completed": true,
-      "color": "red"
-    },
-    {
       "id": 2,
       "text": "Learn Modern ES6+ JavaScript",
       "completed": true,
@@ -48,23 +42,8 @@
     },
     {
       "text": "hdjhdjhdjsdh",
-      "completed": false,
+      "completed": true,
       "id": 9
-    },
-    {
-      "text": "yttrtr",
-      "completed": false,
-      "id": 10
-    },
-    {
-      "text": "trttttttttttttt",
-      "completed": false,
-      "id": 11
-    },
-    {
-      "text": "fghfdghjfgf",
-      "completed": false,
-      "id": 12
     }
   ]
 }
